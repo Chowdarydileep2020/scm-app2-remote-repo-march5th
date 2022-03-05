@@ -1,2 +1,6 @@
 this is my first commit
 this is my 2nd commit
+this is my 3rd commit
+3rd commit data
+3rd commit data
+3rd commit data
